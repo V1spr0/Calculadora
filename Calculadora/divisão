@@ -1,0 +1,4 @@
+ static double divisao(double x, double y)
+    {
+        return x / y;
+    }
